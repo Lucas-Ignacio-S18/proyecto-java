@@ -4,6 +4,4 @@ public class HelloWorld {
     }
 }
 
-
-
 // git add → git commit → git push
